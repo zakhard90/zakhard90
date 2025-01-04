@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zakhard90.
-- 👀 I'm a passionate blockchain developer with a deep understanding of Decentralized Ledger Technology, Web3 Protocols.
+- 👀 I'm a passionate blockchain developer with a deep understanding of Decentralized Ledger Technology and Web3 Protocols.
 - 🌱 I enjoy creating secure, scalable blockchain solutions and contributing to the evolving decentralized ecosystem.
 - 💡 I'm currently exploring:
   - ZK proof implementations
